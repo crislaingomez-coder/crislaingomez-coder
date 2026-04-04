@@ -2,7 +2,7 @@
 
 ### Analista de Dados & BI | Automação | Low-Code | Power BI · SQL · N8N
 
-Sou desenvolvedora e analista de dados de Sobral, Ceará 📍, apaixonada por transformar dados em soluções reais que geram impacto. Meu projeto de maior orgulho é um aplicativo implantado em **6 hospitais do Ceará** que automatizou o controle de materiais cirúrgicos — desenvolvido do zero por mim em AppSheet.
+Sou desenvolvedora e analista de dados de Sobral, Ceará 📍, apaixonada por transformar dados em soluções reais que geram impacto. Meu projeto de maior orgulho é um aplicativo implantado em **6 hospitais do Ceará** que automatizou o controle de materiais cirúrgicos desenvolvido do zero por mim em AppSheet.
 
 ---
 
