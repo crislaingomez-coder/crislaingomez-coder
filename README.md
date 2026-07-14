@@ -1,4 +1,6 @@
-Olá, eu sou a Crislaine Gomes 👋
+<div align="center">
+
+# Olá, eu sou a Crislaine Gomes 👋
 
 ### Analista de Dados, BI e Automação de Processos
 
@@ -14,7 +16,7 @@ Transformo dados e rotinas manuais em dashboards, automações e aplicações qu
 - 📊 Atuo com análise de dados, indicadores, dashboards e controles gerenciais.
 - ⚙️ Desenvolvo automações e soluções low-code para reduzir atividades manuais.
 - 🏥 Criei um aplicativo de controle de OPME implantado em **6 hospitais do Ceará**, com reconhecimento institucional do ISGH.
-- 👟 Integro a equipe de **Digital Commerce da Grendene**, apoiando análises operacionais, logística, devoluções e automação de processos.
+- 👟 Atuei na equipe de **Digital Commerce da Grendene**, apoiando análises operacionais, logística, devoluções e automação de processos.
 - 🎓 Curso **Análise e Desenvolvimento de Sistemas** e reúno mais de **750 horas de formação** em Dados, BI, IA e Automação.
 - 🌎 Moro em Sobral, Ceará, e estou aberta a oportunidades remotas.
 
