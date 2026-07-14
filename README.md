@@ -1,108 +1,110 @@
-# Olá, eu sou a Crislaine Gomes! 👋
+Olá, eu sou a Crislaine Gomes 👋
 
-### Analista de BI & Automação | Power BI · N8N · Python | App em produção em 6 hospitais do Ceará | Aberta a oportunidades remotas
+### Analista de Dados, BI e Automação de Processos
 
-Sou desenvolvedora e analista de dados de Sobral, Ceará 📍, especializada em transformar dados e processos manuais em soluções reais. Meu projeto de maior orgulho é um aplicativo implantado em **6 hospitais do Ceará** que automatizou o controle de materiais cirúrgicos (OPME), desenvolvido do zero em AppSheet e reconhecido institucionalmente pela Diretoria de Operações do ISGH.
+Transformo dados e rotinas manuais em dashboards, automações e aplicações que apoiam decisões e melhoram operações.
 
-Atuo também como freelancer, desenvolvendo CRM, painel inteligente e sistema multi-empresas para uma consultoria.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainegomesoliveira)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislaingomez@gmail.com)
 
----
+</div>
 
-## 🛠️ Tecnologias & Ferramentas
+## Sobre mim
 
-**Dados & BI**
+- 📊 Atuo com análise de dados, indicadores, dashboards e controles gerenciais.
+- ⚙️ Desenvolvo automações e soluções low-code para reduzir atividades manuais.
+- 🏥 Criei um aplicativo de controle de OPME implantado em **6 hospitais do Ceará**, com reconhecimento institucional do ISGH.
+- 👟 Integro a equipe de **Digital Commerce da Grendene**, apoiando análises operacionais, logística, devoluções e automação de processos.
+- 🎓 Curso **Análise e Desenvolvimento de Sistemas** e reúno mais de **750 horas de formação** em Dados, BI, IA e Automação.
+- 🌎 Moro em Sobral, Ceará, e estou aberta a oportunidades remotas.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## Tecnologias e ferramentas
 
-**Automação & Low-Code**
+### Dados e BI
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Desenvolvimento & Deploy**
+### Automação e low-code
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AppSheet](https://img.shields.io/badge/AppSheet-0097A7?style=flat-square&logo=google&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**IA & APIs**
+### Desenvolvimento
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### IA e integrações
 
-## 🚀 Projetos em Destaque
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🏥 App de Controle de OPME — ISGH *(reconhecimento institucional)*
-Aplicativo desenvolvido em AppSheet para rastrear materiais cirúrgicos (OPME). Adotado em **6 hospitais do ISGH no Ceará**, com impacto direto na rastreabilidade e redução de erros operacionais. Certificado pela Gerência de Assistência Farmacêutica e Diretoria de Operações do ISGH.
+## Projetos em destaque
 
-`AppSheet` `Low-Code` `Automação` `Saúde` `Gestão Hospitalar`
+### 🏥 App de Controle de OPME — ISGH
 
----
+Aplicativo em AppSheet para rastrear materiais cirúrgicos e automatizar registros. A solução foi adotada em **6 hospitais do Ceará** e recebeu reconhecimento da Gerência de Assistência Farmacêutica e da Diretoria de Operações do ISGH.
+
+`AppSheet` `Automação` `Low-Code` `Saúde` `Gestão Hospitalar`
 
 ### 📦 [Dashboard Operacional de E-commerce — Grendene](https://github.com/crislaingomez-coder/dashboard-ecommerce-grendene)
-Dashboard Power BI de acompanhamento operacional do e-commerce da Grendene S/A — pedidos, logística, frete e SLA. Projeto que resultou em contratação.
+
+Dashboard para acompanhar pedidos, logística, frete e SLA no e-commerce, apoiando a visibilidade e a tomada de decisão operacional.
 
 `Power BI` `DAX` `Power Query` `E-commerce` `Logística`
 
----
-
 ### 📊 [Portfólio de Dashboards Power BI](https://github.com/crislaingomez-coder/portfolio-power-bi)
-5 dashboards profissionais: vendas, metas, inadimplência, clientes e desempenho semestral. Modelagem de dados com DAX avançado e ETL no Power Query.
 
-`Power BI` `DAX` `Power Query` `Excel Avançado` `Data Visualization`
+Coleção de cinco dashboards sobre vendas, metas, inadimplência, clientes e desempenho semestral, com modelagem de dados, DAX e ETL no Power Query.
 
----
+`Power BI` `DAX` `Power Query` `Excel` `Data Visualization`
 
 ### 💰 [App de Gestão Financeira — PWA](https://github.com/crislaingomez-coder/app-gestao-fin)
-Aplicativo instalável no celular para controle financeiro pessoal. Interface gráfica, autenticação e dados persistidos. Em produção no Vercel.
+
+Aplicativo instalável para controle financeiro pessoal, com autenticação, persistência de dados e publicação na Vercel.
 
 `TypeScript` `React` `PWA` `Supabase` `Vite`
 
----
+### ⛪ Sistemas para a Comunidade Católica Shalom
 
-### ⛪ Sistemas para Comunidade Católica Shalom *(em produção)*
-Dois sistemas reais em produção: (1) gestão e engajamento de membros com painel por ministério e controle hierárquico; (2) app PWA de prestação de contas financeiras com 3 perfis de acesso e envio de relatórios à sede central.
+Dois sistemas em produção: uma plataforma de gestão e engajamento de membros e um PWA de prestação de contas, com três perfis de acesso e envio de relatórios à sede central.
 
 `TypeScript` `React` `Supabase` `PWA` `Vercel`
 
----
+### 🏢 CRM e sistema multiempresas
 
-### 🏢 CRM + Sistema Multi-empresas *(freelancer — em desenvolvimento)*
-CRM com painel inteligente de acompanhamento de clientes e sistema multi-tenant com módulos progressivos para consultoria. Automações via N8N integradas a APIs de IA.
+Projeto freelancer de CRM com painel inteligente, arquitetura multiempresa e automações integradas a APIs de IA.
 
 `N8N` `TypeScript` `React` `Supabase` `IA` `Multi-tenant`
 
----
+## Estatísticas do GitHub
 
-### ⚙️ Automações com N8N + IA
-Fluxos automatizados com agentes de IA, RAG, Web Scraping e integração com WhatsApp, Telegram, Google Calendar e Slack.
+<div align="center">
 
-`N8N` `APIs de IA` `Automação` `RAG` `Agentes`
+![Estatísticas da Crislaine](https://github-readme-stats.vercel.app/api?username=crislaingomez-coder&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
----
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=crislaingomez-coder&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
-## 📈 GitHub Stats
-
-![Crislaine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crislaingomez-coder&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## 📫 Vamos nos conectar?
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainegomesoliveira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislaingomez@gmail.com)
+### Vamos transformar dados em soluções reais?
 
----
-
-> *"Transformo dados em soluções reais — do dashboard ao aplicativo, do processo manual ao fluxo automatizado."*
+Estou disponível para conversar sobre dados, BI, automação e desenvolvimento de soluções.
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=crislaingomez-coder.crislaingomez-coder)
+
+</div>
