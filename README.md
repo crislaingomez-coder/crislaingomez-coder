@@ -59,7 +59,7 @@ Aplicativo criado em AppSheet para rastrear materiais cirúrgicos e automatizar 
 
 ### 📦 [Dashboard Operacional de E-commerce — Grendene](https://github.com/crislaingomez-coder/dashboard-ecommerce-grendene)
 
-Dashboard para acompanhamento de pedidos, logística, frete e SLA, desenvolvido para ampliar a visibilidade da operação de e-commerce.
+Case autoral desenvolvido com dados fictícios para demonstrar habilidades em uma entrevista na Grendene. O dashboard apresenta indicadores de pedidos, logística, frete e SLA e contribuiu para a conquista da oportunidade profissional.
 
 `Power BI` `DAX` `Power Query` `E-commerce` `Logística`
 
@@ -74,12 +74,6 @@ Cinco dashboards sobre vendas, metas, inadimplência, clientes e desempenho seme
 Aplicativo instalável para controle financeiro pessoal, com autenticação, persistência de dados e publicação na Vercel.
 
 `TypeScript` `React` `PWA` `Supabase` `Vite`
-
-### 🏢 CRM e painel inteligente
-
-Projeto freelancer de gestão de clientes, com painel inteligente, estrutura multiempresa e automações integradas a APIs de IA.
-
-`N8N` `TypeScript` `React` `Supabase` `IA` `Multi-tenant`
 
 ## Formação atual
 
