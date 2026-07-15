@@ -57,6 +57,14 @@ Aplicativo criado em AppSheet para rastrear materiais cirúrgicos e automatizar 
 
 `AppSheet` `Automação` `Low-Code` `Saúde` `Gestão Hospitalar`
 
+### 🐍 [Commerce Ops Intelligence — CGO Data](https://github.com/crislaingomez-coder/cgo-data-ops)
+
+Automação em Python para validar dados operacionais de e-commerce, calcular indicadores de SLA, frete, devoluções e cancelamentos e gerar um diagnóstico executivo com score de risco e plano de ação priorizado.
+
+**Diferencial:** análise por transportadora, canal e estado, com dados 100% sintéticos e relatório HTML gerado automaticamente.
+
+`Python` `Pandas` `Data Quality` `E-commerce` `Logística` `Automação`
+
 ### 📦 [Dashboard Operacional de E-commerce — Grendene](https://github.com/crislaingomez-coder/dashboard-ecommerce-grendene)
 
 Case autoral desenvolvido com dados fictícios para demonstrar habilidades em uma entrevista na Grendene. O dashboard apresenta indicadores de pedidos, logística, frete e SLA e contribuiu para a conquista da oportunidade profissional.
