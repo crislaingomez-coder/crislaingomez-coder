@@ -19,7 +19,7 @@ Transformo dados e necessidades operacionais em análises, dashboards, automaç�
 - 🏅 Recebi reconhecimento institucional da Gerência de Assistência Farmacêutica e da Diretoria de Operações do ISGH pelo projeto.
 - 📊 Atuei em Digital Commerce na Grendene com análises operacionais, logística, devoluções, controles gerenciais e melhoria de processos.
 - 🧩 Em projeto freelance, desenvolvi um CRM utilizado no acompanhamento de clientes e follow-ups comerciais.
-- 🎓 Reúno **mais de 750 horas de formação** em Dados, BI, Inteligência Artificial, Automação e Desenvolvimento.
+- 🎓 Reúno **mais de 1.200 horas de formação certificada**, entre módulos acadêmicos e cursos complementares em Dados, BI, Inteligência Artificial, Automação e Desenvolvimento.
 
 ## Como posso contribuir
 
