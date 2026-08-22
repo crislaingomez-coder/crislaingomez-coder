@@ -2,7 +2,7 @@
 
 <img src="./data-flow.svg" alt="Crislaine Gomes — dados, BI, automação e IA" width="100%">
 
-# Olá, eu sou a Crislaine Gomes👋
+# Olá, eu sou a Crislaine Gomes 👋
 
 ### Dados, BI, Automação e Inteligência Artificial Aplicada
 
