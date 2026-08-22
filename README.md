@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./data-flow.svg" alt="Crislaine Gomes — dados, BI, automação e IA" width="100%">
+<img src="data-flow.svg" alt="Crislaine Gomes — dados, BI, automação e IA" width="100%">
 
 **Analista de Dados · Business Intelligence · Automação e IA**
 Sobral, CE — Híbrido/Remoto
