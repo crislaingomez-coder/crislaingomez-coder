@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/data-flow.svg" alt="Crislaine Gomes — fluxo de dados" width="100%">
+<img src="./data-flow.svg" alt="Crislaine Gomes — fluxo de dados" width="100%">
 
 Dados, BI, Automação e Inteligência Artificial Aplicada
 
