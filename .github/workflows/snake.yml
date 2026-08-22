@@ -1,1 +1,30 @@
+name: Gerar cobrinha (referência a Python) a partir do contribution graph
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar SVG da cobrinha com cores personalizadas
+        uses: Platane/snk@v3
+        with:
+          github_user_name: crislaingomez-coder
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#58a6ff,#7f77dd&color_dots=#161b22,#1c2532,#2a3444,#3fb950,#58a6ff&color_empty=#0a0e14
+
+      - name: Publicar no branch "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
