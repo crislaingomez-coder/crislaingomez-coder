@@ -6,9 +6,18 @@
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
     <path d="M40,0 L0,0 L0,40" fill="none" stroke="#161b22" stroke-width="1"/>
   </pattern>
+  <clipPath id="typeReveal">
+    <rect x="60" y="230" width="352" height="26">
+      <animate attributeName="width" calcMode="discrete" dur="2.1s" fill="freeze"
+        keyTimes="0;0.0370;0.0741;0.1111;0.1481;0.1852;0.2222;0.2593;0.2963;0.3333;0.3704;0.4074;0.4444;0.4815;0.5185;0.5556;0.5926;0.6296;0.6667;0.7037;0.7407;0.7778;0.8148;0.8519;0.8889;0.9259;0.9630;1"
+        values="0;13;26;39;52;65;78;91;104;117;130;143;156;169;183;196;209;222;235;248;261;274;287;300;313;326;339;352"/>
+    </rect>
+  </clipPath>
 </defs>
 <rect width="1200" height="300" fill="#0a0e14"/>
-<rect width="1200" height="300" fill="url(#grid)"/>
+<rect x="-40" y="-40" width="1280" height="380" fill="url(#grid)">
+  <animateTransform attributeName="transform" type="translate" from="0,0" to="40,40" dur="45s" repeatCount="indefinite"/>
+</rect>
 
 <path d="M20,20 L20,10 L36,10" fill="none" stroke="#3a4451" stroke-width="1"/>
 <path d="M1180,20 L1180,10 L1164,10" fill="none" stroke="#3a4451" stroke-width="1"/>
@@ -20,7 +29,13 @@
 
 <text x="58" y="140" fill="#f0ead6" font-size="66" font-family="Arial Narrow, Arial, sans-serif" font-weight="700" letter-spacing="1">CRISLAINE</text>
 <text x="58" y="205" fill="#f0ead6" font-size="66" font-family="Arial Narrow, Arial, sans-serif" font-weight="700" letter-spacing="1">GOMES</text>
-<text x="60" y="248" fill="#7f77dd" font-size="16" font-family="monospace" letter-spacing="3">DADOS · BI · IA · AUTOMAÇÃO</text>
+<text x="60" y="248" fill="#7f77dd" font-size="16" font-family="monospace" letter-spacing="3" clip-path="url(#typeReveal)">DADOS · BI · IA · AUTOMAÇÃO</text>
+<rect x="412" y="233" width="9" height="18" fill="#7f77dd">
+  <animate attributeName="x" calcMode="discrete" dur="2.1s" fill="freeze"
+    keyTimes="0;0.0370;0.0741;0.1111;0.1481;0.1852;0.2222;0.2593;0.2963;0.3333;0.3704;0.4074;0.4444;0.4815;0.5185;0.5556;0.5926;0.6296;0.6667;0.7037;0.7407;0.7778;0.8148;0.8519;0.8889;0.9259;0.9630;1"
+    values="60;73;86;99;112;125;138;151;164;177;190;203;216;229;243;256;269;282;295;308;321;334;347;360;373;386;399;412"/>
+  <animate attributeName="opacity" calcMode="discrete" values="1;0;1" keyTimes="0;0.5;1" dur="1s" begin="2.1s" repeatCount="indefinite"/>
+</rect>
 
 <text x="460" y="40" fill="#58a6ff" font-size="12" font-family="monospace" letter-spacing="1.5">SINAL — ANÁLISE E MELHORIA DE PROCESSOS</text>
 <g stroke="#1c2532" stroke-width="1">
@@ -28,32 +43,32 @@
   <line x1="460" y1="220" x2="740" y2="220"/>
 </g>
 <path id="ghline" d="M470,190 L500,170 L530,180 L560,140 L590,155 L620,110 L650,125 L680,90 L710,100" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="340" stroke-dashoffset="340">
-  <animate attributeName="stroke-dashoffset" values="340;0;0;340" keyTimes="0;0.55;0.9;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-dashoffset" values="340;0;0;340" keyTimes="0;0.55;0.9;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1" dur="4s" repeatCount="indefinite"/>
 </path>
 <circle r="5" fill="#58a6ff">
-  <animateMotion dur="4s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;0.55;0.9;1" calcMode="linear">
+  <animateMotion dur="4s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;0.55;0.9;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1">
     <mpath href="#ghline"/>
   </animateMotion>
 </circle>
 
 <g stroke="#2a3444" stroke-width="1" stroke-dasharray="3,3">
   <line x1="790" y1="145" x2="850" y2="90" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="0s" repeatCount="indefinite"/>
   </line>
   <line x1="790" y1="145" x2="850" y2="145" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
   </line>
   <line x1="790" y1="145" x2="850" y2="200" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
   </line>
   <line x1="850" y1="90" x2="905" y2="60" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
   </line>
   <line x1="850" y1="145" x2="905" y2="115" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
   </line>
   <line x1="850" y1="200" x2="905" y2="230" opacity="0.4">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="2s" repeatCount="indefinite"/>
   </line>
 </g>
 <circle cx="790" cy="145" r="9" fill="none" stroke="#58a6ff" stroke-width="2"/>
@@ -61,13 +76,13 @@
 <circle cx="850" cy="145" r="16" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
 <circle cx="850" cy="200" r="16" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
 <circle cx="905" cy="60" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
-  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="12;15;12" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
 </circle>
 <circle cx="905" cy="115" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
-  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="12;15;12" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
 </circle>
 <circle cx="905" cy="230" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
-  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="12;15;12" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" dur="2.8s" begin="2s" repeatCount="indefinite"/>
 </circle>
 
 <text x="960" y="40" fill="#58a6ff" font-size="12" font-family="monospace" letter-spacing="1.5">ÍNDICE DE COMPETÊNCIAS</text>
