@@ -52,6 +52,10 @@ Transformo dados e necessidades operacionais em análises, dashboards, automaç�
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 🐍 Python, minha linguagem de coração
+
+<img src="https://raw.githubusercontent.com/crislaingomez-coder/crislaingomez-coder/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo o gráfico de contribuições, em referência a Python">
+
 ## Projetos selecionados
 
 ### 🧪 [A/B Testing Analytics](https://github.com/crislaingomez-coder/ab-testing-analytics)
