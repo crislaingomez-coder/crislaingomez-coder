@@ -1,111 +1,109 @@
 <div align="center">
 
-# Olá, eu sou a Crislaine Gomes 👋
+<img src="./assets/data-flow.svg" alt="Crislaine Gomes — fluxo de dados" width="100%">
 
-### Dados, BI, Automação e Inteligência Artificial Aplicada
+Dados, BI, Automação e Inteligência Artificial Aplicada
 
 Transformo dados e necessidades operacionais em análises, dashboards, automações e aplicações que apoiam decisões e melhoram processos.
 
-📍 Sobral, Ceará &nbsp;·&nbsp; 🎯 Em busca de oportunidades em Dados, BI e Automação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainegomesoliveira)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislaingomez@gmail.com)
+
 
 </div>
 
-## Minha trajetória
+⚡ Em números
 
-- 🏥 Desenvolvi um aplicativo de controle de OPME implantado em **6 hospitais do Ceará**.
-- 🏅 Recebi reconhecimento institucional da Gerência de Assistência Farmacêutica e da Diretoria de Operações do ISGH pelo projeto.
-- 📊 Atuei em Digital Commerce na Grendene com análises operacionais, logística, devoluções, controles gerenciais e melhoria de processos.
-- 🧩 Em projeto freelance, desenvolvi um CRM utilizado no acompanhamento de clientes e follow-ups comerciais.
-- 🎓 Reúno **mais de 1.200 horas de formação certificada**, entre módulos acadêmicos e cursos complementares em Dados, BI, Inteligência Artificial, Automação e Desenvolvimento.
+🏥 6 hospitais
 
-## Como posso contribuir
+🎓 1.200+ horas
 
-- Construção de dashboards, indicadores e análises com **Power BI, Excel, SQL e Python**.
-- Tratamento, transformação e modelagem de dados com **Power Query, DAX e Pandas**.
-- Automação de relatórios, validações e rotinas operacionais com **Python, AppSheet e APIs**.
-- Aplicação de IA em análise, documentação, validação de resultados e apoio a processos.
-- Desenvolvimento de aplicações com **TypeScript, React, Supabase e Vercel**.
-- Tradução de necessidades do negócio em soluções simples, rastreáveis e úteis.
+📊 Dados & BI
 
-## Tecnologias
+⚙️ Automação
 
-**Dados e BI**
+Solução OPME implantada no Ceará
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white)
+Formação certificada
 
-**Automação, IA e desenvolvimento**
+Python, SQL e Power BI
 
-![AI](https://img.shields.io/badge/IA%20Aplicada-6E56CF?style=flat-square&logo=openai&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-0097A7?style=flat-square&logo=google&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Python, APIs e Low-Code
 
-## Projetos selecionados
+🚀 O que eu construo
 
-### 🧪 [A/B Testing Analytics](https://github.com/crislaingomez-coder/ab-testing-analytics)
+DADOS ──▶ TRATAMENTO ──▶ ANÁLISE ──▶ VISUALIZAÇÃO ──▶ DECISÃO
+  │            │              │              │              │
+ APIs        Python          SQL          Power BI       Negócio
+ Excel       Pandas       Estatística     Dashboards     Resultado
 
-Solução autoral em Python para validar dados, analisar experimentos A/B e gerar recomendações, relatórios executivos e um painel consolidado em Excel.
+🧩 Projetos selecionados
 
-O projeto utiliza dados 100% sintéticos, intervalo de confiança por bootstrap, testes automatizados e integração contínua para tornar a análise reproduzível e confiável.
+🧪 A/B Testing Analytics
 
-`Python` `Pandas` `NumPy` `Estatística` `Pytest` `GitHub Actions` `IA Aplicada`
+Análise reproduzível de experimentos A/B com validação de dados, bootstrap, testes automatizados e relatório executivo.
 
-### 🐍 [Commerce Ops Intelligence](https://github.com/crislaingomez-coder/cgo-data-ops)
+Python Pandas NumPy Estatística Pytest GitHub Actions
 
-Automação em Python para validar dados operacionais de e-commerce, calcular indicadores de SLA, frete, devoluções e cancelamentos e gerar um diagnóstico executivo com score de risco e plano de ação priorizado.
+🐍 Commerce Ops Intelligence
 
-O projeto utiliza dados 100% sintéticos e produz análises por transportadora, canal e estado, além de um relatório HTML gerado automaticamente.
+Automação para validação de dados operacionais de e-commerce, indicadores de SLA, frete, devoluções, cancelamentos e diagnóstico executivo.
 
-`Python` `Pandas` `Qualidade de Dados` `E-commerce` `Logística` `Automação`
+Python Pandas Qualidade de Dados E-commerce Logística Automação
 
-### 🏥 App de Controle de OPME | ISGH
+🏥 App de Controle de OPME | ISGH
 
-Aplicativo desenvolvido em AppSheet para apoiar o gerenciamento de estoque de órteses, próteses e materiais especiais. A solução foi implantada em **6 hospitais do Ceará** e recebeu reconhecimento institucional do ISGH.
+Aplicativo desenvolvido em AppSheet e implantado em 6 hospitais do Ceará para apoiar o controle de OPME e processos de estoque.
 
-`AppSheet` `Automação Low-Code` `Saúde` `Gestão de Estoques` `Processos`
+AppSheet Low-Code Automação Saúde Processos
 
-### 📦 [Dashboard Operacional de E-commerce](https://github.com/crislaingomez-coder/dashboard-ecommerce-grendene)
+📦 Dashboard Operacional de E-commerce
 
-Case autoral criado com dados fictícios para demonstrar competências em uma entrevista na Grendene. O dashboard apresenta indicadores de pedidos, logística, frete e SLA e fez parte da apresentação que contribuiu para a conquista da oportunidade profissional.
+Case autoral com dados fictícios para demonstrar análise operacional, logística, frete, SLA e indicadores de e-commerce.
 
-`Power BI` `DAX` `Power Query` `E-commerce` `Logística`
+Power BI DAX Power Query E-commerce Logística
 
-### 📊 [Portfólio de Dashboards Power BI](https://github.com/crislaingomez-coder/portfolio-power-bi)
+📊 Portfólio Power BI
 
-Coleção de cinco dashboards sobre vendas, metas, inadimplência, clientes e desempenho semestral, com tratamento de dados, modelagem e criação de indicadores.
+Coleção de dashboards sobre vendas, metas, inadimplência, clientes e desempenho semestral.
 
-`Power BI` `DAX` `Power Query` `Excel` `Visualização de Dados`
+Power BI DAX Power Query Excel
 
-### 💰 [App de Gestão Financeira](https://github.com/crislaingomez-coder/app-gestao-fin)
+💰 App de Gestão Financeira
 
-Aplicativo PWA para controle financeiro pessoal, com autenticação, persistência de dados e publicação na Vercel.
+PWA para controle financeiro com autenticação, persistência de dados e publicação na Vercel.
 
-`TypeScript` `React` `PWA` `Supabase` `Vite`
+TypeScript React PWA Supabase Vite
 
-## Formação atual
+🛠️ Tecnologias
 
-🎓 **Análise e Desenvolvimento de Sistemas** | Descomplica Faculdade Digital
+Dados & BI
 
-Atualmente aprofundando conhecimentos em análise de dados, SQL, Python, automação de processos, inteligência artificial e desenvolvimento de aplicações.
 
----
+
+
+
+
+
+Automação, IA & Desenvolvimento
+
+
+
+
+
+
+
+🎓 Formação
+
+Análise e Desenvolvimento de Sistemas — Descomplica Faculdade Digital
+
+Aprofundamento em análise de dados, SQL, Python, automação, inteligência artificial e desenvolvimento de aplicações.
 
 <div align="center">
 
-### Vamos conversar?
+Vamos conversar?
 
-Estou aberta a oportunidades profissionais e estágios em **Dados, Business Intelligence e Automação**, com preferência por trabalho remoto.
+Dados → Automação → IA → Resultado
 
-[LinkedIn](https://linkedin.com/in/crislainegomesoliveira) · [GitHub](https://github.com/crislaingomez-coder) · [E-mail](mailto:crislaingomez@gmail.com)
+LinkedIn · GitHub · E-mail
 
 </div>
