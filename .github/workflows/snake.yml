@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: crislaingomez-coder
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#58a6ff,#7f77dd&color_dots=#161b22,#1c2532,#2a3444,#3fb950,#58a6ff&color_empty=#0a0e14
+            dist/github-contribution-grid-snake.svg?color_snake=#3fb950,#58a6ff,#7f77dd&color_dots=#161b22,#1c2532,#2a3444,#3fb950,#58a6ff&color_empty=#0a0e14
 
       - name: Publicar no branch "output"
         uses: crazy-max/ghaction-github-pages@v4
