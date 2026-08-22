@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1200 300" width="100%" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Crislaine Gomes — dados, BI, automação e IA</title>
+<desc>Banner com grade técnica, nome em destaque, gráfico de sinal animado e rede de competências pulsante</desc>
+
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40,0 L0,0 L0,40" fill="none" stroke="#161b22" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" fill="#0a0e14"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+
+<path d="M20,20 L20,10 L36,10" fill="none" stroke="#3a4451" stroke-width="1"/>
+<path d="M1180,20 L1180,10 L1164,10" fill="none" stroke="#3a4451" stroke-width="1"/>
+<path d="M20,280 L20,290 L36,290" fill="none" stroke="#3a4451" stroke-width="1"/>
+<path d="M1180,280 L1180,290 L1164,290" fill="none" stroke="#3a4451" stroke-width="1"/>
+
+<text x="60" y="40" fill="#58a6ff" font-size="13" font-family="monospace" letter-spacing="2">PERFIL PROFISSIONAL · 2026</text>
+<line x1="60" y1="50" x2="180" y2="50" stroke="#58a6ff" stroke-width="2"/>
+
+<text x="58" y="140" fill="#f0ead6" font-size="66" font-family="Arial Narrow, Arial, sans-serif" font-weight="700" letter-spacing="1">CRISLAINE</text>
+<text x="58" y="205" fill="#f0ead6" font-size="66" font-family="Arial Narrow, Arial, sans-serif" font-weight="700" letter-spacing="1">GOMES</text>
+<text x="60" y="248" fill="#7f77dd" font-size="16" font-family="monospace" letter-spacing="3">DADOS · BI · IA · AUTOMAÇÃO</text>
+
+<text x="460" y="40" fill="#58a6ff" font-size="12" font-family="monospace" letter-spacing="1.5">SINAL — ANÁLISE E MELHORIA DE PROCESSOS</text>
+<g stroke="#1c2532" stroke-width="1">
+  <line x1="460" y1="70" x2="460" y2="220"/>
+  <line x1="460" y1="220" x2="740" y2="220"/>
+</g>
+<path id="ghline" d="M470,190 L500,170 L530,180 L560,140 L590,155 L620,110 L650,125 L680,90 L710,100" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="340" stroke-dashoffset="340">
+  <animate attributeName="stroke-dashoffset" values="340;0;0;340" keyTimes="0;0.55;0.9;1" dur="4s" repeatCount="indefinite"/>
+</path>
+<circle r="5" fill="#58a6ff">
+  <animateMotion dur="4s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;0.55;0.9;1" calcMode="linear">
+    <mpath href="#ghline"/>
+  </animateMotion>
+</circle>
+
+<g stroke="#2a3444" stroke-width="1" stroke-dasharray="3,3">
+  <line x1="790" y1="145" x2="850" y2="90" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+  </line>
+  <line x1="790" y1="145" x2="850" y2="145" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="790" y1="145" x2="850" y2="200" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+  </line>
+  <line x1="850" y1="90" x2="905" y2="60" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="850" y1="145" x2="905" y2="115" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="850" y1="200" x2="905" y2="230" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+  </line>
+</g>
+<circle cx="790" cy="145" r="9" fill="none" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="850" cy="90" r="16" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<circle cx="850" cy="145" r="16" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<circle cx="850" cy="200" r="16" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<circle cx="905" cy="60" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
+  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="905" cy="115" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
+  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="1.6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="905" cy="230" r="12" fill="none" stroke="#7f77dd" stroke-width="1.5">
+  <animate attributeName="r" values="12;15;12" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+</circle>
+
+<text x="960" y="40" fill="#58a6ff" font-size="12" font-family="monospace" letter-spacing="1.5">ÍNDICE DE COMPETÊNCIAS</text>
+<line x1="960" y1="50" x2="1150" y2="50" stroke="#1c2532" stroke-width="1"/>
+<g fill="#c9d1d9" font-size="13" font-family="monospace">
+  <text x="960" y="82"><tspan fill="#58a6ff">01</tspan>  POWER BI</text>
+  <text x="960" y="112"><tspan fill="#58a6ff">02</tspan>  SQL</text>
+  <text x="960" y="142"><tspan fill="#58a6ff">03</tspan>  PYTHON</text>
+  <text x="960" y="172"><tspan fill="#58a6ff">04</tspan>  AUTOMAÇÃO E IA</text>
+  <text x="960" y="202"><tspan fill="#58a6ff">05</tspan>  APIS E INTEGRAÇÕES</text>
+  <text x="960" y="232"><tspan fill="#58a6ff">06</tspan>  POWER QUERY E EXCEL</text>
+</g>
+</svg>
