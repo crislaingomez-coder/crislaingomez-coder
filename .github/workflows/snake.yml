@@ -1,6 +1,5 @@
 name: Gerar cobrinha (referência a Python) a partir do contribution graph
 
-
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -20,7 +19,8 @@ jobs:
         with:
           github_user_name: crislaingomez-coder
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#3fb950,#58a6ff,#7f77dd&color_dots=#161b22,#1c2532,#2a3444,#3fb950,#58a6ff&color_empty=#0a0e14
+            dist/github-snake-dark.svg?color_snake=#3fb950,#58a6ff,#7f77dd&color_dots=#161b22,#1f3b57,#2c5c8f,#3f86d1,#58a6ff&color_empty=#0a0e14
+            dist/github-snake-light.svg?color_snake=#2ea043,#1f6feb,#8250df&color_dots=#ebedf0,#b9d3f0,#6ba3e5,#3f86d1,#1f6feb&color_empty=#ffffff
 
       - name: Publicar no branch "output"
         uses: crazy-max/ghaction-github-pages@v4
