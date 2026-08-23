@@ -54,7 +54,11 @@ Transformo dados e necessidades operacionais em análises, dashboards, automaç�
 
 ## 🐍 Python, minha linguagem de coração
 
-<img src="https://raw.githubusercontent.com/crislaingomez-coder/crislaingomez-coder/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha animada percorrendo o gráfico de contribuições, em referência a Python">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crislaingomez-coder/crislaingomez-coder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crislaingomez-coder/crislaingomez-coder/output/github-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/crislaingomez-coder/crislaingomez-coder/output/github-snake-dark.svg" width="100%" alt="Cobrinha animada percorrendo o gráfico de contribuições, em referência a Python">
+</picture>
 
 ## Projetos selecionados
 
