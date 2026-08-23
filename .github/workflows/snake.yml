@@ -1,5 +1,6 @@
 name: Gerar cobrinha (referência a Python) a partir do contribution graph
 
+
 on:
   schedule:
     - cron: "0 */6 * * *"
